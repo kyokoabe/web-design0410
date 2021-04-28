@@ -1,0 +1,51 @@
+@charset "UTF-8";
+html{font-size:100%;}
+.wrapper{line-height: 60px;
+         font-family:YuGothic;}
+
+#section1 {max-width:1000px;
+           font-size:2rem;
+           padding:0 8px 8px;
+           border-bottom: 2px #0bd solid;
+           font-weight: normal;}
+
+#section2 {max-width:1000px;
+           font-size:2rem;
+           padding:0 8px 8px;
+           border-bottom: 2px #0bd solid;
+           font-weight: normal;}
+#section3 {max-width:1000px;
+          font-size:2rem;
+          padding:0 8px 8px;
+          border-bottom: 2px #0bd solid;
+          font-weight: normal;}
+
+#section4 {max-width:1000px;
+           font-size:2rem;
+           padding:0 8px 8px;
+           border-bottom: 2px #0bd solid;
+           font-weight: normal;}
+
+ #section5 {max-width:1000px;
+            font-size:2rem;
+            padding:0 8px 8px;
+            border-bottom: 2px #0bd solid;
+          　font-weight: normal;}
+
+#section6 {max-width:1000px;
+          font-size:2rem;
+          padding:0 8px 8px;
+          border-bottom: 2px #0bd solid;
+          font-weight: normal;}
+
+#section7 {max-width:1000px;
+           font-size:2rem;
+           padding:0 8px 8px;
+           border-bottom: 2px #0bd solid;
+           font-weight: normal;}
+
+#section8 {max-width:1000px;
+          font-size:2rem;
+          padding:0 8px 8px;
+          border-bottom: 2px #0bd solid;
+          font-weight: normal;}
